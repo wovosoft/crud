@@ -119,4 +119,4 @@ If you discover any security related issues, please email narayanadhikary24@gmai
 - [Wovo Soft](https://gitlab.com/wovosoft)
 
 ## Special Thanks
-- Special Thanks to https://github.com/melihovv/laravel-package-generator . We have just made an extended version of this package. A Console Application is integrated to perform all operations. Few more commands like Controller, Models with adding and removing for certain packages are added. 
+- Special Thanks to https://github.com/melihovv/laravel-package-generator . We have just made an extended version of this package. A Console Application is integrated to perform all operations. Few more commands like Controller, Models with adding and removing features for certain packages are added. 

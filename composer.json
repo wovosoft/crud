@@ -5,13 +5,20 @@
     "keywords": [
         "laravel",
         "package",
-        "generator"
+        "generator",
+        "controllers",
+        "models",
+        "seeders"
     ],
     "type": "library",
     "authors": [
         {
             "name": "Narayan Adhikary",
             "email": "narayanahdikary24@gmail.com"
+        },
+        {
+            "name": "WovoSoft Developer Team",
+            "email": "wovosoft@gmail.com"
         }
     ],
     "require": {

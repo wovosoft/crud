@@ -1,7 +1,7 @@
 Laravel Package Generator for WovoCMS  
 =========================  
   
-[![Build Status](https://travis-ci.org/wovosoft/crud.svg?branch=master)](https://travis-ci.org/wovosoft/crud)  [![styleci](https://styleci.io/repos/96041272/shield)](https://styleci.io/repos/96041272)  [![Packagist](https://img.shields.io/packagist/v/melihovv/laravel-package-generator.svg)](https://packagist.org/packages/wovosoft/crud)  [![Packagist](https://poser.pugx.org/melihovv/laravel-package-generator/d/total.svg)](https://packagist.org/packages/wovosoft/crud)  [![Packagist](https://img.shields.io/packagist/l/wovosoft/crud.svg)](https://packagist.org/packages/wovosoft/crud)  
+[![Build Status](https://travis-ci.org/wovosoft/crud.svg?branch=master)](https://travis-ci.org/wovosoft/crud)  [![styleci](https://styleci.io/repos/96041272/shield)](https://styleci.io/repos/96041272)  [![Packagist](https://img.shields.io/packagist/v/wovosoft/crud.svg)](https://packagist.org/packages/wovosoft/crud)  [![Packagist](https://poser.pugx.org/wovosoft/crud/d/total.svg)](https://packagist.org/packages/wovosoft/crud)  [![Packagist](https://img.shields.io/packagist/l/wovosoft/crud.svg)](https://packagist.org/packages/wovosoft/crud)  
   
 Simple package to quickly generate basic structure for other WovoCMS laravel packages.  
   

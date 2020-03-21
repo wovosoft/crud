@@ -1,4 +1,4 @@
-Laravel Package Generator for WovoCMS  
+Laravel Package Generator
 =========================  
   
 [![Latest Stable Version](https://poser.pugx.org/wovosoft/crud/v/stable)](https://packagist.org/packages/wovosoft/crud) [![Total Downloads](https://poser.pugx.org/wovosoft/crud/downloads)](https://packagist.org/packages/wovosoft/crud) [![Latest Unstable Version](https://poser.pugx.org/wovosoft/crud/v/unstable)](https://packagist.org/packages/wovosoft/crud) [![License](https://poser.pugx.org/wovosoft/crud/license)](https://packagist.org/packages/wovosoft/crud) 
